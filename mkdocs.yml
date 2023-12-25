@@ -1,4 +1,30 @@
+# Project information
 site_name: Portfolio
+site_url: https://mohitsainiknl.github.io/
+site_author: Mohit Saini
+site_description: >-
+  Website for My Portfolio
 
 theme:
-    name: material
+  name: material
+  custom_dir: overrides
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon-32x32.png
+  logo: assets/logo-32x32.png
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Education: education.md
+  - Experience: experience.md
+  - Projects: projects.md
+  - Contacts: contacts.md
