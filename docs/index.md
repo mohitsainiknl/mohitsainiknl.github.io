@@ -24,6 +24,8 @@ achieve a harmonious blend of performance, functionality, and user-friendly desi
 
 ### Virtual Tools with Nodes
 
+[Repository](.) (work-in-progress)
+
 <div class="owl-carousel owl-theme">
     <div class="item">
         <div class="inner-item">
@@ -40,7 +42,7 @@ achieve a harmonious blend of performance, functionality, and user-friendly desi
 </div>
 
 !!! note ""
-    My work in virtual scripting with nodes, a work-in-progress project, holds dual significance as a key
+    My work in virtual scripting with nodes holds dual significance as a key
     component of my college final project.
 
 This is a tool editor, where tools are visualized as nodes,
@@ -61,6 +63,8 @@ and automation, amplifying the capabilities of Blender for artists and animators
 
 
 ### Custom Tools - Generative Rigs
+
+[Code](https://github.com/mohitsainiknl/blender-addons/tree/master/Custom%20Tools) (July 2023)
 
 <div class="owl-carousel owl-theme">
     <div class="item">
@@ -107,6 +111,8 @@ the instances of blender by hiding the complex build/refeshing work itself.
 
 ### CUI - Custom UI for Rigs
 
+[Code](https://github.com/mohitsainiknl/blender-addons/blob/master/custom-rig-ui-blender-addon.py) (May 2023)
+
 <div class="owl-carousel owl-theme">
     <div class="item">
         <div class="inner-item">
@@ -135,6 +141,8 @@ This is a powerful tool for creating user interface of the rig. this tool lets u
 
 ### GLink - Live Link Graphs
 
+[Code](https://github.com/mohitsainiknl/blender-addons/blob/master/glink-blender-addon.py) (November 2022)
+
 <div class="owl-carousel owl-theme">
     <div class="item">
         <div class="inner-item">
@@ -158,7 +166,7 @@ This is a powerful tool for creating user interface of the rig. this tool lets u
 
 This Addon helps user to automatically update f-curves in blender graph editor, which is helpful in when using *space switching techniques* like - `Aim Space` and `World Space`.
 
-This also include **Glink Manager**, which helps in managing lots of graph-links, example - using this in create walk cycle, linking one side to another.
+This also include Glink Manager, which helps in managing lots of graph-links, example - using this in create walk cycle, linking one side to another.
 
 
 
@@ -170,6 +178,9 @@ Venturing into the world of web development, my WebApp Using NPM Packages sectio
 
 
 ### Website for Levins Pharmadeals Pvt
+
+[Repository](https://github.com/mohitsainiknl/website_demo_levins) (July 2022)
+
 <figure markdown>
 ![MS Paint Project By MohitSainiKnl](assets/website_demo_levins.png)
 <figcaption>Home Page of Levins Website</figcaption>
@@ -192,6 +203,8 @@ I created this website for [Levins Pharmadeals Pvt](https://lpil.in/). This webs
 
 
 ### Website for Limeless Media Pvt
+
+[Repository](https://github.com/mohitsainiknl/website_demo_limeless) (Feb 2022)
 
 <figure markdown>
 ![MS Paint Project By MohitSainiKnl](assets/website_demo_limeless.png)
@@ -225,6 +238,8 @@ in crafting intuitive and interactive user interfaces using the Java Swing frame
 
 ### MS Paint
 
+[Repository](https://github.com/mohitsainiknl/MSPaint) (July 2021)
+
 <div class="owl-carousel owl-theme">
     <div class="item">
         <div class="inner-item">
@@ -241,8 +256,6 @@ in crafting intuitive and interactive user interfaces using the Java Swing frame
     </div>
 </div>
 
-**[Checkout Repository](https://github.com/mohitsainiknl/MSPaint)**
-
 I tried to upgrade Microsoft Paint, and developed it in JavaSE with Swing framework.
 Features:
 
@@ -255,6 +268,8 @@ Features:
 
 
 ### Snake Game
+
+[Repository](https://github.com/mohitsainiknl/Java-SnakeGame) (June 2021)
 
 <div class="owl-carousel owl-theme">
     <div class="item">
@@ -293,6 +308,9 @@ both light and dark colored lines, as shown in image above. Moreover, you can al
 
 ### MS Notepad
 
+[Repository](https://github.com/mohitsainiknl/MSNotepad) (May 2021)
+
+
 <div class="owl-carousel owl-theme">
     <div class="item">
         <div class="inner-item">
@@ -318,5 +336,7 @@ both light and dark colored lines, as shown in image above. Moreover, you can al
 
 MSNotepad is a simple text editor, with cross platform support, and a basic text-editing program which enables computer
 users to create documents. It is light-weight editor which entirely looks like Microsoft Windows' Notepad.
-MSNotepad writes the settings of the application in the Settings.txt file, before closing the application. And load it again at the starting of the application.
+
+MSNotepad writes the settings of the application in the Settings.txt file, before closing the application. And load it
+again at the starting of the application.
 
