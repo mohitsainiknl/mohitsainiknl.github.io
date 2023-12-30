@@ -24,10 +24,11 @@ markdown_extensions:
 
 
 extra_css:
-  - stylesheets/extra.css
   - stylesheets/owl.carousel.min.css
   - stylesheets/owl.theme.css
   - stylesheets/carousel.css
+  - stylesheets/extra.css
+
 extra_javascript:
   - javascripts/extra.js
   - javascripts/jquery-3.6.0.min.js
