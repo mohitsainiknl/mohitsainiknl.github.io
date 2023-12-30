@@ -1,0 +1,22 @@
+
+
+
+/* .owl-carousel {
+    background-color: rgb(173, 173, 173);
+}
+
+.owl-carousel .owl-item {
+    background-color: rgb(196, 196, 196);
+} */
+
+.owl-carousel .owl-item .item {
+    display: flex;
+    justify-content: center;
+}
+
+.owl-carousel .owl-item .item .inner-item {
+    align-self: center;
+}
+
+
+

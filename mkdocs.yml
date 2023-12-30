@@ -18,11 +18,21 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - def_list
+
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/owl.carousel.min.css
+  - stylesheets/owl.theme.default.min.css
+  - stylesheets/carousel.css
 extra_javascript:
   - javascripts/extra.js
+  - javascripts/jquery-3.6.0.min.js
+  - javascripts/owl.carousel.min.js
+  - javascripts/carousel.js
 
 # nav:
 #   - Home: index.md
