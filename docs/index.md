@@ -41,9 +41,9 @@ I had experience with OpenGL, I started developing Graphics Engine for 2D and 3D
 
 This graphics engine project is capable of creating 2d games, I am focusing on achieving good profiles for rendering.
 
-Supported Graphics API : OpenGL, Vulkan (looking for dx12)
-Windowing System : glfw
-Supported Languages : C++ (Python and C# with bindings)
+Supported Graphics API : OpenGL, Vulkan (looking for dx12) <br>
+Windowing System : glfw <br>
+Supported Languages : C++ (Python and C# with bindings) <br>
 
 
 
