@@ -8,43 +8,51 @@ Welcome to my portfolio,
 Within these sections, you'll find a diverse showcase of
 my projects spanning various domains, each a testament to my passion for technology and software development.
 
-Join me on this journey through a portfolio that encapsulates a spectrum of my technical prowess and showcases
-the creativity embedded in each endeavor.
-
-
 
 
 ## Graphics Engine Development
 
-I had experience with OpenGL, I started developing Graphics Engine for 2D and 3D graphics. 
+When I am learning/using software like Blender, Maya, and Unreal for animation and gaming, I started making plugins for these software packages. However, I wanted a playground where I could easily create 3D tools. Having experience in OpenGL and Vulkan, I decided to develop a graphics engine called Tiler.
 
 
-
-### Tiler - Node Based Graphics Engine
+### Tiler - Graphics Engine
 
 [Repository](https://github.com/mohitsainiknl/Tiler) (work-in-progress)
 
 <div class="owl-carousel owl-theme">
     <div class="item">
         <div class="inner-item">
-            <img src="https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=%E2%80%93%20Image%20%E2%80%93" width="700" alt="">
-            <figcaption>Image Caption</figcaption>
+            <img src="assets/tiler-starter-project.png" width="700" alt="Tiler Starter Project">
+            <figcaption>Tiler Starter Project</figcaption>
         </div>
     </div>
     <div class="item">
         <div class="inner-item">
-            <img src="https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=%E2%80%93%20Image%20%E2%80%93" width="700" alt="">
-            <figcaption>Image Caption</figcaption>
+            <img src="assets/tiler-playground-option.png" width="700" alt="Tiler Playground Options">
+            <figcaption>Tiler Playground Options</figcaption>
         </div>
     </div>
 </div>
 
-This graphics engine project is capable of creating 2d games, I am focusing on achieving good profiles for rendering.
+**Project Description:**
 
-Supported Graphics API : OpenGL, Vulkan (looking for dx12) <br>
-Windowing System : glfw <br>
-Supported Languages : C++ (Python and C# with bindings) <br>
+This graphics engine functions as a modular state machine, offering a range of capabilities including:
 
+- Rendering 2D and 3D scenes
+- Switching between different graphics APIs
+- Providing a text editor for shaders
+- Implementing post-processing effects
+
+*Tiler*, currently, serves as a playground for developing algorithms related to geometry, UVs, materials, and animation. It will soon incorporate tools for these tasks.
+
+**Key Components:**
+
+- **Shader Language:** GLSL
+- **Graphics API:** OpenGL (with [glad](https://github.com/Dav1dde/glad)) and soon Vulkan
+- **Windowing System:** [SDL](https://github.com/libsdl-org/SDL)
+- **GUI Library:** [ImGui](https://github.com/ocornut/imgui)
+- **Asset Importers:** [Assimp](https://github.com/assimp/assimp) and [stb](https://github.com/nothings/stb)
+- **Math Library:** [glm](https://github.com/g-truc/glm)
 
 
 ## Blender 3D Addons
