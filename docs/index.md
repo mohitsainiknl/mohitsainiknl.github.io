@@ -28,8 +28,8 @@ When I am learning/using software like Blender, Maya, and Unreal for animation a
     </div>
     <div class="item">
         <div class="inner-item">
-            <img src="assets/tiler-playground-option.png" width="700" alt="Tiler Playground Options">
-            <figcaption>Tiler Playground Options</figcaption>
+            <img src="assets/tiler-car-normals.png" width="700" alt="Tiler Testing Options">
+            <figcaption>Tiler Testing Options</figcaption>
         </div>
     </div>
 </div>
