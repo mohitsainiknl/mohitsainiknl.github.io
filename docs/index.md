@@ -180,14 +180,14 @@ Venturing into the world of web development, my WebApp Using NPM Packages sectio
 
 ### Website for Levins Pharmadeals Pvt
 
-[Repository](https://github.com/mohitsainiknl/website_demo_levins) (July 2022)
+[Repository](https://github.com/mohitsainiknl/website-demo-levins) (July 2022)
 
 <figure markdown>
-![MS Paint Project By MohitSainiKnl](assets/website_demo_levins.png)
+![MS Paint Project By MohitSainiKnl](assets/website-demo-levins.png)
 <figcaption>Home Page of Levins Website</figcaption>
 </figure>
 
-**[Checkout Live Demo](http://website-demo-levins.vercel.app/)**
+**[Checkout Live Demo](http://levins.vercel.app/)**
 
 I created this website for [Levins Pharmadeals Pvt](https://lpil.in/). This website contain images in .svg format which helps in scaling and animation.
 
@@ -199,21 +199,21 @@ I created this website for [Levins Pharmadeals Pvt](https://lpil.in/). This webs
     - **Bootstrap** - for creating custom theme for website.
     - **SASS** - for simplified CSS code generation.
     
-    see [package.json](https://github.com/mohitsainiknl/website_demo_levins/blob/master/package.json) for more info
+    see [package.json](https://github.com/mohitsainiknl/website-demo-levins/blob/master/package.json) for more info
 
 
 
 ### Website for Limeless Media Pvt
 
-[Repository](https://github.com/mohitsainiknl/website_demo_limeless) (Feb 2022)
+[Repository](https://github.com/mohitsainiknl/website-demo-limeless) (Feb 2022)
 
 <figure markdown>
-![MS Paint Project By MohitSainiKnl](assets/website_demo_limeless.png)
+![MS Paint Project By MohitSainiKnl](assets/website-demo-limeless.png)
 <figcaption>Home Page of Limeless Website</figcaption>
 </figure>
 
 
-**[Checkout Live Demo](http://website-demo-limeless.vercel.app/)**
+**[Checkout Live Demo](http://limeless.vercel.app/)**
 
 And this website is created for [Limeless Media Pvt](https://www.linkedin.com/company/limeless-media/).
 
@@ -225,7 +225,7 @@ And this website is created for [Limeless Media Pvt](https://www.linkedin.com/co
     - **Bootstrap** - for creating custom theme for website.
     - **SASS** - for simplified CSS code generation.
     
-    see [package.json](https://github.com/mohitsainiknl/website_demo_limeless/blob/master/package.json) for more info
+    see [package.json](https://github.com/mohitsainiknl/website-demo-limeless/blob/master/package.json) for more info
 
 
 
